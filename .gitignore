@@ -1,6 +1,6 @@
 *.out
-client
-proxy
 
 ref/**
 for_grading/**
+
+.nfs.*
